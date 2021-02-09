@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\basic">
+      <UniqueIdentifier>{2a6a4231-b308-415e-ae1a-6dd33dee86f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ex">
+      <UniqueIdentifier>{b6ae7cd3-ef6e-4fe6-a59d-a8b4dc0ba03e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\inheritance">
+      <UniqueIdentifier>{bae95325-c699-4c2f-ba37-0632ea603265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\OOP%28object_oriented_programming%29">
+      <UniqueIdentifier>{b6b0f7c0-9131-4689-9374-f7904766b942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\struct">
+      <UniqueIdentifier>{66aaf56a-b507-487c-8e2b-709fa35e021d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\wrong">
+      <UniqueIdentifier>{ae858590-6f61-4af0-88be-663bebb56cc9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\Cpp_study\basic\ch1.cpp">
+      <Filter>소스 파일\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\basic\ch2.cpp">
+      <Filter>소스 파일\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\ex\ch1_1_basic_ex1.cpp">
+      <Filter>소스 파일\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\ex\ch2_ex.cpp">
+      <Filter>소스 파일\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\ex\ch3_ex.cpp">
+      <Filter>소스 파일\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\ex\ch4_ex.cpp">
+      <Filter>소스 파일\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\Inheritance\ch_inheritance_0.cpp">
+      <Filter>소스 파일\inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\Inheritance\ch_inheritance_1.cpp">
+      <Filter>소스 파일\inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\ch_oop.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\ch_oop_2.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\test\answer\labs_temperature_ex.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\test\answer\Student_class.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\test\laboratory_temperature.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\test\simple_class.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\OOP(object_oriented_programming)\test\studnt_score.cpp">
+      <Filter>소스 파일\OOP%28object_oriented_programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Cpp_study\struct\ch3.cpp">
+      <Filter>소스 파일\struct</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
